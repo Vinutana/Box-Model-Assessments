@@ -1,0 +1,17 @@
+<style>
+.parent {
+           display: flex;
+           align-items: center;
+           justify-content: center
+        }
+</style>
+
+.child {
+   width: 200px;
+   height: 50px;
+}
+
+
+<div class="parent">
+  <div class="child">Center me.</div>
+</div>
